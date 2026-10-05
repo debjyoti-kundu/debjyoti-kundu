@@ -1,79 +1,155 @@
-# Hi, I'm Debjyoti Kundu 👋
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-**B.Tech CSE student | GATE aspirant | C++ DSA grinder | Python enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Debjyoti%20Kundu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSE%20%7C%20C%2B%2B%20DSA%20%7C%20GATE%20Aspirant%20%7C%20Python%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
-I'm a Computer Science & Engineering student at **Haridwar University, Roorkee**, currently moving from 2nd to 3rd year. I enjoy solving problems, understanding how things work under the hood, and building things with code.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Debjyoti+Kundu;CSE+Student+%40+Haridwar+University%2C+Roorkee;Solving+DSA+problems+in+C%2B%2B+%E2%9A%A1;Preparing+for+GATE+CSE+%F0%9F%8E%AF;Leveling+up+in+Advanced+Python+%F0%9F%90%8D;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=8A2BE2)
+![Stars](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&logo=github&color=FFD700)
+
+</div>
 
 ---
 
-## 🎓 About Me
+## 👨‍💻 About Me
 
-- 🏫 B.Tech CSE (2nd → 3rd year), Haridwar University, Roorkee
-- 🎯 Preparing for **GATE CSE**
-- 💻 Practicing **Data Structures & Algorithms in C++**
-- 🐍 Learning **advanced Python** (OOP internals, decorators, generators, async, and more)
-- 🌱 Always learning, always improving
+```cpp
+#include <iostream>
+using namespace std;
+
+class Debjyoti {
+public:
+    string college  = "Haridwar University, Roorkee";
+    string degree   = "B.Tech CSE (2nd -> 3rd Year)";
+    string target   = "GATE CSE";
+    string primary  = "C++ (DSA)";
+    string leveling = "Advanced Python";
+    string mindset  = "Learn. Code. Repeat.";
+};
+
+int main() {
+    Debjyoti me;
+    cout << "Consistency beats talent." << endl;
+    return 0;
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 📚 What I'm Working On
+## 🎯 Currently Focused On
 
-### C++ and DSA
-- Arrays, strings, recursion, backtracking
-- Linked lists, stacks, queues
-- Trees, graphs, heaps
-- Dynamic programming, greedy algorithms
-- STL (vector, map, set, priority_queue, etc.)
+<table align="center">
+<tr>
+<td width="33%" valign="top">
 
-### Advanced Python
-- Decorators, generators, iterators, context managers
-- OOP deep dive, dunder methods, metaclasses
-- Concurrency: threading, multiprocessing, asyncio
-- Writing clean, tested, Pythonic code
+### ⚡ C++ & DSA
+- Arrays, Strings, Recursion
+- Linked List, Stack, Queue
+- Trees, Graphs, Heaps
+- Dynamic Programming
+- Greedy, Backtracking
+- STL Mastery
 
-### GATE CSE
-- Algorithms, Data Structures, TOC
-- Operating Systems, DBMS, Computer Networks
-- Computer Organization, Discrete Maths, Aptitude
+</td>
+<td width="33%" valign="top">
 
----
+### 🐍 Advanced Python
+- Decorators & Generators
+- Iterators & Context Managers
+- OOP Deep Dive, Dunder Methods
+- Multithreading & Asyncio
+- Clean, Pythonic Code
 
-## 🚀 Goals
+</td>
+<td width="33%" valign="top">
 
-- [ ] Build a strong problem-solving foundation in C++
-- [ ] Master advanced Python concepts
-- [ ] Crack GATE CSE with a good rank
-- [ ] Build real-world projects and contribute to open source
+### 🎓 GATE CSE
+- Algorithms & Data Structures
+- Operating Systems
+- DBMS & Computer Networks
+- TOC & Compiler Design
+- COA & Discrete Maths
 
----
-
-## 📂 Repositories
-
-> Coming soon: DSA solutions in C++, Python practice, and GATE notes. Stay tuned!
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [Debjyoti Kundu](https://linkedin.com/in/your-linkedin-id)
-- Email: your-email@example.com
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ If you like my work, feel free to star a repo or follow me!
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Goals 2026-27
+
+| Goal | Status |
+|------|--------|
+| Solve 500+ DSA problems in C++ | 🔄 In Progress |
+| Master advanced Python concepts | 🔄 In Progress |
+| Crack GATE CSE with a good rank | 🎯 Targeting |
+| Build real-world projects | 🌱 Starting |
+| Contribute to open source | 🌱 Starting |
+
+---
+
+## 📂 Projects
+
+> 🚧 Coming soon: C++ DSA solutions, Python advanced practice, and GATE notes.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<br/>
+
+> 💬 *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+⭐ **If you like my work, drop a star and follow!** ⭐
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
