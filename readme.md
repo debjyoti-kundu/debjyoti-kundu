@@ -1,95 +1,96 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Debjyoti%20Kundu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSE%20%7C%20C%2B%2B%20DSA%20%7C%20GATE%20Aspirant%20%7C%20Python%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec7,50:8a2be2,100:00d9ff&height=240&section=header&text=Debjyoti%20Kundu&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%20%E2%80%A2%20Code%20%E2%80%A2%20Level%20Up%20%E2%80%A2%20Repeat&descSize=20&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Debjyoti+Kundu;CSE+Student+%40+Haridwar+University%2C+Roorkee;Solving+DSA+problems+in+C%2B%2B+%E2%9A%A1;Preparing+for+GATE+CSE+%F0%9F%8E%AF;Leveling+up+in+Advanced+Python+%F0%9F%90%8D;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=750&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Debjyoti+Kundu+%F0%9F%8C%B8;B.Tech+CSE+%40+Haridwar+University%2C+Roorkee;Grinding+DSA+in+C%2B%2B+%E2%9A%94%EF%B8%8F;Mastering+Advanced+Python+%F0%9F%90%8D;Leveling+up+every+single+day+%E2%9C%A8;%E3%82%84%E3%81%A3%E3%81%A6%E3%82%84%E3%82%8B!+(I+will+do+it!)" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Views&color=ff6ec7&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&logo=github&color=8A2BE2)
-![Stars](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&logo=github&color=FFD700)
+![Stars](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&logo=github&color=00D9FF)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+## 🌸 プロフィール | Player Profile 🌸
+
+</div>
 
 ```cpp
+// ⚔️ CHARACTER SHEET ⚔️
 #include <iostream>
 using namespace std;
 
 class Debjyoti {
 public:
-    string college  = "Haridwar University, Roorkee";
-    string degree   = "B.Tech CSE (2nd -> 3rd Year)";
-    string target   = "GATE CSE";
-    string primary  = "C++ (DSA)";
-    string leveling = "Advanced Python";
-    string mindset  = "Learn. Code. Repeat.";
+    string name      = "Debjyoti Kundu";
+    string guild     = "Haridwar University, Roorkee";
+    string class_    = "B.Tech CSE (2nd -> 3rd Year)";
+    string mainWeapon = "C++ (DSA)";
+    string magic     = "Advanced Python";
+    string level     = "Rising... 📈";
+    string motto     = "Never stop leveling up.";
 };
 
 int main() {
     Debjyoti me;
-    cout << "Consistency beats talent." << endl;
+    cout << "Hard work beats talent! 🔥" << endl;
     return 0;
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## ⚔️ Skill Tree | スキル ⚔️
+
+![C++](https://img.shields.io/badge/C++-ff6ec7?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8a2be2?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00d9ff?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff6ec7?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8a2be2?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-00d9ff?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
+<div align="center">
+
+## 🗡️ Current Quests | クエスト 🗡️
+
+</div>
 
 <table align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ C++ & DSA
-- Arrays, Strings, Recursion
-- Linked List, Stack, Queue
-- Trees, Graphs, Heaps
-- Dynamic Programming
-- Greedy, Backtracking
-- STL Mastery
-
-</td>
-<td width="33%" valign="top">
-
-### 🐍 Advanced Python
-- Decorators & Generators
-- Iterators & Context Managers
-- OOP Deep Dive, Dunder Methods
-- Multithreading & Asyncio
-- Clean, Pythonic Code
+### ⚡ Main Quest: C++ & DSA
+- 🔹 Arrays, Strings, Recursion
+- 🔹 Linked List, Stack, Queue
+- 🔹 Trees, Graphs, Heaps
+- 🔹 Dynamic Programming
+- 🔹 Greedy & Backtracking
+- 🔹 STL Mastery
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🎓 GATE CSE
-- Algorithms & Data Structures
-- Operating Systems
-- DBMS & Computer Networks
-- TOC & Compiler Design
-- COA & Discrete Maths
+### 🐍 Side Quest: Advanced Python
+- 🔸 Decorators & Generators
+- 🔸 Iterators & Context Managers
+- 🔸 OOP Deep Dive & Dunder Methods
+- 🔸 Threading, Multiprocessing, Asyncio
+- 🔸 Clean, Pythonic Code
+- 🔸 Building Real Projects
 
 </td>
 </tr>
@@ -97,59 +98,64 @@ int main() {
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+## 📊 Battle Stats | ステータス 📊
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a1b27&title_color=ff6ec7&icon_color=00d9ff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=synthwave&hide_border=true&bg_color=1a1b27&title_color=ff6ec7" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=your-github-username&theme=synthwave&hide_border=true&background=1a1b27&ring=ff6ec7&fire=ff6ec7&currStreakLabel=00d9ff" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=synthwave&hide_border=true&bg_color=1a1b27&color=ff6ec7&line=8a2be2&point=00d9ff&area=true" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Goals 2026-27
-
-| Goal | Status |
-|------|--------|
-| Solve 500+ DSA problems in C++ | 🔄 In Progress |
-| Master advanced Python concepts | 🔄 In Progress |
-| Crack GATE CSE with a good rank | 🎯 Targeting |
-| Build real-world projects | 🌱 Starting |
-| Contribute to open source | 🌱 Starting |
-
----
-
-## 📂 Projects
-
-> 🚧 Coming soon: C++ DSA solutions, Python advanced practice, and GATE notes.
-
----
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-<br/>
-
-> 💬 *"First, solve the problem. Then, write the code."*
-
-<br/>
-
-⭐ **If you like my work, drop a star and follow!** ⭐
+## 🏆 Achievement Board | 目標 🏆
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+| 🎯 Goal | ⚡ Status |
+|---------|-----------|
+| Solve 500+ DSA problems in C++ | 🔄 Grinding |
+| Master advanced Python concepts | 🔄 Training |
+| Build awesome real-world projects | 🌱 Unlocking soon |
+| Contribute to open source | 🌱 Unlocking soon |
+| Become a top-tier developer | 🔥 Never giving up |
+
+---
+
+<div align="center">
+
+## 📜 Quest Log | 作品 📜
+
+> 🚧 *New quests loading... C++ DSA solutions and Python projects coming soon!*
+
+---
+
+## 💌 Contact | 連絡 💌
+
+[![GitHub](https://img.shields.io/badge/GitHub-ff6ec7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Gmail](https://img.shields.io/badge/Gmail-00d9ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<br/>
+
+💬 *"努力は裏切らない"*
+**Hard work never betrays you.**
+
+<br/>
+
+⭐ **Drop a star and follow if you like my work!** ⭐
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:8a2be2,100:00d9ff&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>
