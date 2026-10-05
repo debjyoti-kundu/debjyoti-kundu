@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec7,50:8a2be2,100:00d9ff&height=240&section=header&text=Debjyoti%20Kundu&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%20%E2%80%A2%20Code%20%E2%80%A2%20Level%20Up%20%E2%80%A2%20Repeat&descSize=20&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=750&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Debjyoti+Kundu+%F0%9F%8C%B8;B.Tech+CSE+%40+Haridwar+University%2C+Roorkee;Grinding+DSA+in+C%2B%2B+%E2%9A%94%EF%B8%8F;Mastering+Advanced+Python+%F0%9F%90%8D;Leveling+up+every+single+day+%E2%9C%A8;%E3%82%84%E3%81%A3%E3%81%A6%E3%82%84%E3%82%8B!+(I+will+do+it!)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=750&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Debjyoti+Kundu+%F0%9F%8C%B8;B.Tech+CSE+%40+Haridwar+University%2C+Roorkee;Grinding+DSA+in+Java+%E2%9A%94%EF%B8%8F;Mastering+Advanced+Python+%F0%9F%90%8D;Leveling+up+every+single+day+%E2%9C%A8;%E3%82%84%E3%81%A3%E3%81%A6%E3%82%84%E3%82%8B!+(I+will+do+it!)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,26 +23,20 @@
 
 </div>
 
-```cpp
+```java
 // ⚔️ CHARACTER SHEET ⚔️
-#include <iostream>
-using namespace std;
+public class Debjyoti {
+    String name       = "Debjyoti Kundu";
+    String guild      = "Haridwar University, Roorkee";
+    String role       = "B.Tech CSE (2nd -> 3rd Year)";
+    String mainWeapon = "Java (DSA)";
+    String magic      = "Advanced Python";
+    String level      = "Rising... 📈";
+    String motto      = "Never stop leveling up.";
 
-class Debjyoti {
-public:
-    string name      = "Debjyoti Kundu";
-    string guild     = "Haridwar University, Roorkee";
-    string class_    = "B.Tech CSE (2nd -> 3rd Year)";
-    string mainWeapon = "C++ (DSA)";
-    string magic     = "Advanced Python";
-    string level     = "Rising... 📈";
-    string motto     = "Never stop leveling up.";
-};
-
-int main() {
-    Debjyoti me;
-    cout << "Hard work beats talent! 🔥" << endl;
-    return 0;
+    public static void main(String[] args) {
+        System.out.println("Hard work beats talent! 🔥");
+    }
 }
 ```
 
@@ -52,7 +46,7 @@ int main() {
 
 ## ⚔️ Skill Tree | スキル ⚔️
 
-![C++](https://img.shields.io/badge/C++-ff6ec7?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff6ec7?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8a2be2?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-00d9ff?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ff6ec7?style=for-the-badge&logo=github&logoColor=white)
@@ -73,13 +67,13 @@ int main() {
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Main Quest: C++ & DSA
+### ☕ Main Quest: Java & DSA
 - 🔹 Arrays, Strings, Recursion
 - 🔹 Linked List, Stack, Queue
 - 🔹 Trees, Graphs, Heaps
 - 🔹 Dynamic Programming
 - 🔹 Greedy & Backtracking
-- 🔹 STL Mastery
+- 🔹 Collections Framework Mastery
 
 </td>
 <td width="50%" valign="top">
@@ -125,7 +119,7 @@ int main() {
 
 | 🎯 Goal | ⚡ Status |
 |---------|-----------|
-| Solve 500+ DSA problems in C++ | 🔄 Grinding |
+| Solve 500+ DSA problems in Java | 🔄 Grinding |
 | Master advanced Python concepts | 🔄 Training |
 | Build awesome real-world projects | 🌱 Unlocking soon |
 | Contribute to open source | 🌱 Unlocking soon |
@@ -137,7 +131,7 @@ int main() {
 
 ## 📜 Quest Log | 作品 📜
 
-> 🚧 *New quests loading... C++ DSA solutions and Python projects coming soon!*
+> 🚧 *New quests loading... Java DSA solutions and Python projects coming soon!*
 
 ---
 
